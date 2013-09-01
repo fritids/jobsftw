@@ -1,0 +1,195 @@
+a:2:{s:4:"data";s:8435:"    <div class=" top-menu">
+        
+
+
+    <div class="wrap-dropdown-multicolumns">
+        <ul class="dropdown-multicolumns clearfix">
+        
+        
+        
+                                            
+                                                <li class="nodrop">
+                <a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=168">Desktops</a>
+
+                        </li>
+                                            
+                                                <li class="nodrop">
+                <a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=252">Accessories</a>
+
+                        </li>
+                                            
+                                                <li class="nodrop">
+                <a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=169">Laptops</a>
+
+                        </li>
+                                            
+                                                    
+                
+                        <li class="">
+                <a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=234" class="drop">Cellphones<!--<i class="icon-down-micro">--></i></a>
+
+            
+                                
+
+                <div class="dropdown-1column">
+
+                        <div class="col-1 firstcolumn lastcolumn">
+                            <ul>
+                            
+                            
+                            
+                                                                                            <li><a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=235">Apple iPhone</a></li>
+                                                                                            <li><a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=236">HTC</a></li>
+                                                                                            <li><a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=240">Motorola</a></li>
+                                                                                            <li><a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=238">Nokia</a></li>
+                                                                                            <li><a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=237">Samsung</a></li>
+                                                                                    
+                            
+
+                            
+                            </ul> 
+
+                        </div>
+                    </div>
+                    
+                
+                        </li>
+                                            
+                                                    
+                
+                        <li class="">
+                <a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=196" class="drop">Cameras<!--<i class="icon-down-micro">--></i></a>
+
+            
+                                
+
+                <div class="dropdown-1column">
+
+                        <div class="col-1 firstcolumn lastcolumn">
+                            <ul>
+                            
+                            
+                            
+                                                                                            <li><a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=198">Digital Cameras</a></li>
+                                                                                            <li><a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=197">DSLR Cameras</a></li>
+                                                                                            <li><a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=199">Camcorders</a></li>
+                                                                                            <li><a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=200">Lenses</a></li>
+                                                                                    
+                            
+
+                            
+                            </ul> 
+
+                        </div>
+                    </div>
+                    
+                
+                        </li>
+                                            
+                                                <li class="nodrop">
+                <a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=165">Tablets</a>
+
+                        </li>
+                                            
+                                                <li class="nodrop">
+                <a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=254">Parts</a>
+
+                        </li>
+                                            
+                                                <li class="nodrop">
+                <a href="http://localhost/favishop/index.php?dispatch=categories.view&amp;category_id=255">Software</a>
+
+                        </li>
+        
+
+
+
+
+<!--CART START-->
+
+<div class="dropdown-box cart-dropdown-box" id="cart_status_103">
+    <!--<a href="http://localhost/favishop/index.php?dispatch=checkout.cart" id="sw_dropdown_103" class="cm-popup-title cm-combination cm-combo-on cart-item-text">-->
+    <a href="http://localhost/favishop/index.php?dispatch=checkout.cart" class="cart-item-text">
+        
+            <!--
+                            <i class="icon-basket filled"></i>
+                <span class="minicart-title hand">1&nbsp;item for&nbsp;$699.99<i class="icon-down-micro"></i></span>
+                    
+            -->
+            <!--<i class="icon-basket filled"></i>-->
+            <div class="icon-shopping-cart">
+                <img src="http://localhost/favishop/design/themes/basic/media/images/custom/cart_icon.png">
+            </div>
+            <span class="minicart-title hand">1&nbsp;ITEM&nbsp;/&nbsp;$699.99
+            <!--<i class="icon-down-micro"></i>-->
+            </span>
+        
+    </a>
+    <!--
+    <div id="dropdown_103" class="cm-popup-box popup-content hidden">
+        
+            <div class="cm-cart-content  ">
+                    <div class="cart-items">
+                                                    <table class="minicart-table">
+                                
+                                                                                                                                <tr class="minicart-separator">
+                                                                        <td style="width: 94%"><a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=4">40" Class (40.0" Diag.) LED 5003 Series TV</a>
+                                    <p>
+                                        <span>1</span><span>&nbsp;x&nbsp;</span><span class="none">$</span><span id="sec_price_4088798008_103" class="none">699.99</span>
+                                    </p></td>
+                                                                    </tr>
+                                                                                                
+
+                            </table>
+                                            </div>
+
+                    
+            </div>
+        
+
+    </div>
+    -->
+<!--cart_status_103-->
+</div>
+
+
+
+<!--CART END-->
+
+
+
+
+        
+        
+
+        </ul>
+        <div class="clear"></div>
+    </div>
+
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+Tygh.$(document).ready(function(){
+    var $ = Tygh.$;
+    // set dropdown menu width
+    $('.dropdown-1column').each(function() {
+        var p = $(this).parents('li:first');
+        if (p.length) {
+            $(this).css('min-width', (p.width() + 10) + 'px');
+        }
+    });
+    var global_offset = $('.wrap-dropdown-multicolumns').offset().top;
+    $('.dropdown-fullwidth').each(function(){
+        var offset = $(this).parent('.fullwidth').offset().top;
+        $(this).css('top', offset - global_offset + 25 + 'px');
+    });
+});
+//]]>
+</script>
+
+
+    </div>
+";s:6:"expiry";i:0;}

@@ -1,0 +1,613 @@
+a:2:{s:4:"data";s:19422:"        <div class="mainbox-container clearfix">
+                    <h1 class="mainbox-title">
+                
+                                    <span>Featured Products</span>
+                                
+
+            </h1>
+                <div class="mainbox-body">
+
+
+
+
+    <ul id="scroll_list_55" class="jcarousel jcarousel-skin hidden">
+                                
+                        
+        
+        
+
+                    <li>
+                        
+            <div class="jscroll-item" style="width: 210">
+                <div class="center product-image" style="height: 160px;">
+                    <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=24"><img class="   pict"    src="http://localhost/favishop/images/thumbnails/0/160/160/HT-D5500_FRONT-copy_5.jpg" width="160" height="160" alt="" title=""  /></a>
+                                    </div>
+                <div class="center compact">
+                                                                                                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="product-container clearfix">
+        <form action="http://localhost/favishop/index.php" method="post" name="product_form_55000scr_5500024" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_5500024][product_id]" value="24" />
+
+                            <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=24" class="product-title" title="5.1 Channel Blu-ray 3D Home Theater System">5.1 Channel Blu-ray 3D Home Theater System</a>    
+            
+            
+    
+
+
+        
+                <div class="prices-container clearfix">
+                
+        <p>                                    <span class="cm-reload-55000scr_5500024 price-update" id="price_update_55000scr_5500024">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="price" id="line_discounted_price_55000scr_5500024"><span class="price-num">$</span><span id="sec_discounted_price_55000scr_5500024" class="price-num">449.99</span></span>
+                            
+
+                        <!--price_update_55000scr_5500024--></span>
+
+        </p>
+                        </div>
+        
+                        
+        
+                
+                    
+        
+                
+                    
+                
+                    
+        
+                    
+
+                            <div class="buttons-container">
+                                <div class="cm-reload-55000scr_5500024 " id="add_to_cart_update_55000scr_5500024">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[separate_buttons]" value="" />
+<input type="hidden" name="appearance[show_list_buttons]" value="" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+<span id="cart_add_block_55000scr_5500024">
+                        
+ 
+    <span  id="wrap_button_cart_55000scr_5500024"  class="button-submit-action button-wrap-left"><span  class="button-submit-action button-wrap-right"><input id="button_cart_55000scr_5500024"  type="submit" name="dispatch[checkout.add..scr_5500024]"  value="Add to cart" /></span></span>
+
+
+    
+
+
+</span>
+
+<!--add_to_cart_update_55000scr_5500024--></div>
+
+
+                                
+            </div>
+                        </form>
+
+</div>
+
+
+                </div>
+            </div>
+            </li>
+                    <li>
+                        
+            <div class="jscroll-item" style="width: 210">
+                <div class="center product-image" style="height: 160px;">
+                    <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=170"><img class="   pict"    src="http://localhost/favishop/images/thumbnails/0/160/160/588crm_hero.jpg" width="160" height="160" alt="" title=""  /></a>
+                                    </div>
+                <div class="center compact">
+                                                                                                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="product-container clearfix">
+        <form action="http://localhost/favishop/index.php" method="post" name="product_form_55000scr_55000170" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_55000170][product_id]" value="170" />
+
+                            <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=170" class="product-title" title="588 Chrome Wedge">588 Chrome Wedge</a>    
+            
+            
+    
+
+
+        
+                <div class="prices-container clearfix">
+                
+        <p>                                    <span class="cm-reload-55000scr_55000170 price-update" id="price_update_55000scr_55000170">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="price" id="line_discounted_price_55000scr_55000170"><span class="price-num">$</span><span id="sec_discounted_price_55000scr_55000170" class="price-num">145.99</span></span>
+                            
+
+                        <!--price_update_55000scr_55000170--></span>
+
+        </p>
+                        </div>
+        
+                        
+        
+                
+                    
+        
+                
+                    
+                
+                    
+        
+                    
+
+                            <div class="buttons-container">
+                                <div class="cm-reload-55000scr_55000170 " id="add_to_cart_update_55000scr_55000170">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[separate_buttons]" value="" />
+<input type="hidden" name="appearance[show_list_buttons]" value="" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+<span id="cart_add_block_55000scr_55000170">
+                        
+ 
+    <span  id="wrap_button_cart_55000scr_55000170"  class="button-submit-action button-wrap-left"><span  class="button-submit-action button-wrap-right"><input id="button_cart_55000scr_55000170"  type="submit" name="dispatch[checkout.add..scr_55000170]"  value="Add to cart" /></span></span>
+
+
+    
+
+
+</span>
+
+<!--add_to_cart_update_55000scr_55000170--></div>
+
+
+                                
+            </div>
+                        </form>
+
+</div>
+
+
+                </div>
+            </div>
+            </li>
+                    <li>
+                        
+            <div class="jscroll-item" style="width: 210">
+                <div class="center product-image" style="height: 160px;">
+                    <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=148"><img class="   pict"    src="http://localhost/favishop/images/thumbnails/0/160/160/NWZA865BLK.jpg" width="160" height="160" alt="" title=""  /></a>
+                                    </div>
+                <div class="center compact">
+                                                                                                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="product-container clearfix">
+        <form action="http://localhost/favishop/index.php" method="post" name="product_form_55000scr_55000148" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_55000148][product_id]" value="148" />
+
+                            <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=148" class="product-title" title="16GB A Series Walkman Video MP3">16GB A Series Walkman Video MP3</a>    
+            
+            
+    
+
+
+        
+                <div class="prices-container clearfix">
+                
+        <p>                                    <span class="cm-reload-55000scr_55000148 price-update" id="price_update_55000scr_55000148">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="price" id="line_discounted_price_55000scr_55000148"><span class="price-num">$</span><span id="sec_discounted_price_55000scr_55000148" class="price-num">219.00</span></span>
+                            
+
+                        <!--price_update_55000scr_55000148--></span>
+
+        </p>
+                        </div>
+        
+                        
+        
+                
+                    
+        
+                
+                    
+                
+                    
+        
+                    
+
+                            <div class="buttons-container">
+                                <div class="cm-reload-55000scr_55000148 " id="add_to_cart_update_55000scr_55000148">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[separate_buttons]" value="" />
+<input type="hidden" name="appearance[show_list_buttons]" value="" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+<span id="cart_add_block_55000scr_55000148">
+                        
+ 
+    <span  id="wrap_button_cart_55000scr_55000148"  class="button-submit-action button-wrap-left"><span  class="button-submit-action button-wrap-right"><input id="button_cart_55000scr_55000148"  type="submit" name="dispatch[checkout.add..scr_55000148]"  value="Add to cart" /></span></span>
+
+
+    
+
+
+</span>
+
+<!--add_to_cart_update_55000scr_55000148--></div>
+
+
+                                
+            </div>
+                        </form>
+
+</div>
+
+
+                </div>
+            </div>
+            </li>
+                    <li>
+                        
+            <div class="jscroll-item" style="width: 210">
+                <div class="center product-image" style="height: 160px;">
+                    <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=180"><img class="   pict"    src="http://localhost/favishop/images/thumbnails/0/160/160/EX-S1855SB_600.jpg" width="160" height="160" alt="" title=""  /></a>
+                                    </div>
+                <div class="center compact">
+                                                                                                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="product-container clearfix">
+        <form action="http://localhost/favishop/index.php" method="post" name="product_form_55000scr_55000180" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_55000180][product_id]" value="180" />
+
+                            <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=180" class="product-title" title="18-55mm Portrait Lens">18-55mm Portrait Lens</a>    
+            
+            
+    
+
+
+        
+                <div class="prices-container clearfix">
+                
+        <p>                                    <span class="cm-reload-55000scr_55000180 price-update" id="price_update_55000scr_55000180">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="price" id="line_discounted_price_55000scr_55000180"><span class="price-num">$</span><span id="sec_discounted_price_55000scr_55000180" class="price-num">199.99</span></span>
+                            
+
+                        <!--price_update_55000scr_55000180--></span>
+
+        </p>
+                        </div>
+        
+                        
+        
+                
+                    
+        
+                
+                    
+                
+                    
+        
+                    
+
+                            <div class="buttons-container">
+                                <div class="cm-reload-55000scr_55000180 " id="add_to_cart_update_55000scr_55000180">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[separate_buttons]" value="" />
+<input type="hidden" name="appearance[show_list_buttons]" value="" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+<span id="cart_add_block_55000scr_55000180">
+                        
+ 
+    <span  id="wrap_button_cart_55000scr_55000180"  class="button-submit-action button-wrap-left"><span  class="button-submit-action button-wrap-right"><input id="button_cart_55000scr_55000180"  type="submit" name="dispatch[checkout.add..scr_55000180]"  value="Add to cart" /></span></span>
+
+
+    
+
+
+</span>
+
+<!--add_to_cart_update_55000scr_55000180--></div>
+
+
+                                
+            </div>
+                        </form>
+
+</div>
+
+
+                </div>
+            </div>
+            </li>
+                    <li>
+                        
+            <div class="jscroll-item" style="width: 210">
+                <div class="center product-image" style="height: 160px;">
+                    <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=232"><img class="   pict"    src="http://localhost/favishop/images/thumbnails/0/160/160/url_uploaded_file_13287873494f33af96095d8.jpg" width="160" height="160" alt="" title=""  /></a>
+                                    </div>
+                <div class="center compact">
+                                                                                                                                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="product-container clearfix">
+        <form action="http://localhost/favishop/index.php" method="post" name="product_form_55000scr_55000232" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[scr_55000232][product_id]" value="232" />
+
+                            <a href="http://localhost/favishop/index.php?dispatch=products.view&amp;product_id=232" class="product-title" title="2011 Ice Queen">2011 Ice Queen</a>    
+            
+            
+    
+
+
+        
+                <div class="prices-container clearfix">
+                
+        <p>                                    <span class="cm-reload-55000scr_55000232 price-update" id="price_update_55000scr_55000232">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="price" id="line_discounted_price_55000scr_55000232"><span class="price-num">$</span><span id="sec_discounted_price_55000scr_55000232" class="price-num">79.95</span></span>
+                            
+
+                        <!--price_update_55000scr_55000232--></span>
+
+        </p>
+                        </div>
+        
+                        
+        
+                
+                    
+        
+                
+                    
+                
+                    
+        
+                    
+
+                            <div class="buttons-container">
+                                <div class="cm-reload-55000scr_55000232 " id="add_to_cart_update_55000scr_55000232">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[separate_buttons]" value="" />
+<input type="hidden" name="appearance[show_list_buttons]" value="" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+<span id="cart_add_block_55000scr_55000232">
+                        
+ 
+    <span  id="wrap_button_cart_55000scr_55000232"  class="button-submit-action button-wrap-left"><span  class="button-submit-action button-wrap-right"><input id="button_cart_55000scr_55000232"  type="submit" name="dispatch[checkout.add..scr_55000232]"  value="Add to cart" /></span></span>
+
+
+    
+
+
+</span>
+
+<!--add_to_cart_update_55000scr_55000232--></div>
+
+
+                                
+            </div>
+                        </form>
+
+</div>
+
+
+                </div>
+            </div>
+            </li>
+            </ul>
+
+                
+    
+<script type="text/javascript" src="http://localhost/favishop/js/lib/jcarousel/jquery.jcarousel.js?ver=4.0.1" ></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm_id = '#scroll_list_55';
+        if (context.find(elm_id).length) {
+            $(elm_id).show();
+            $(elm_id).jcarousel({
+                vertical: false,
+                size: 5,
+                scroll: 4,
+                animation: 'normal',
+                easing: 'swing',
+                                auto: 0,
+                                autoDirection: 'next',
+                wrap: 'circular',
+                initCallback: $.ceScrollerMethods.init_callback,
+                itemVisibleOutCallback: {
+                    onAfterAnimation: $.ceScrollerMethods.in_out_callback
+                },
+                item_width: 210,
+                item_height: 327,
+                clip_width: 840,
+                clip_height: 327,
+                item_count: 5,
+                buttonNextHTML: '<div><i class="icon-right-open-thin"></i><i class="icon-down-open"></i></div>',
+                buttonPrevHTML: '<div><i class="icon-left-open-thin"></i><i class="icon-up-open"></i></div>'
+            });
+        }
+    });
+}(Tygh, Tygh.$));
+//]]>
+</script></div>
+    </div>
+";s:6:"expiry";i:0;}

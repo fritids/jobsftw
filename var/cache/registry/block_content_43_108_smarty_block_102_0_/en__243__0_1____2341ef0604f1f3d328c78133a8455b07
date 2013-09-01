@@ -1,0 +1,17 @@
+a:2:{s:4:"data";s:707:"        <div class="mainbox2-container vendor-list-footer float-left">
+        <h1 class="mainbox2-title clearfix">
+            
+                            <span>Customer service</span>
+                        
+
+        </h1>
+        <div class="mainbox2-body"><!--<div class="wysiwyg-content">-->
+	<ul>
+<li><a href="http://localhost/favishop/index.php?dispatch=orders.search">About your order</a></li>
+<li><a href="http://localhost/favishop/index.php?dispatch=wishlist.view">Wishlist</a></li>
+<li><a href="http://localhost/favishop/index.php?dispatch=product_features.compare">Compare list</a></li>
+</ul>
+<!--</div>--></div>
+        <div class="mainbox2-bottom"><span>&nbsp;</span></div>
+    </div>
+";s:6:"expiry";i:0;}

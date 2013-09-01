@@ -1,0 +1,17 @@
+a:2:{s:4:"data";s:605:"        <div class="mainbox2-container vendor-list-footer float-left">
+        <h1 class="mainbox2-title clearfix">
+            
+                            <span>Vendors</span>
+                        
+
+        </h1>
+        <div class="mainbox2-body">
+    <ul>
+            <li><a href="http://localhost/favishop/index.php?dispatch=companies.view&amp;company_id=2">ACME Corp</a></li>
+            <li><a href="http://localhost/favishop/index.php?dispatch=companies.view&amp;company_id=1">Simtech</a></li>
+        </ul>
+
+    </div>
+        <div class="mainbox2-bottom"><span>&nbsp;</span></div>
+    </div>
+";s:6:"expiry";i:0;}
